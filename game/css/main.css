@@ -1,0 +1,36 @@
+body {
+  width: 100%;
+  background: lightgrey;
+}
+
+div {
+  float: left;
+  height: 200px;
+  margin: 10px;
+  padding: 20px;
+  width: 15%;
+  min-width: 10%;
+  border-radius: 10%;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  vertical-align: middle;
+}
+
+.red {
+  background: red;
+}
+
+.blue {
+  background: blue;
+}
+
+.green {
+  background: green;
+}
+
+.yellow {
+  background: yellow;
+}
