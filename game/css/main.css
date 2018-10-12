@@ -21,16 +21,24 @@ p {
 
 .red {
   background: red;
+  opacity: 0.6;
 }
 
 .blue {
   background: blue;
+  opacity: 0.6;
 }
 
 .green {
   background: green;
+  opacity: 0.6;
 }
 
 .yellow {
   background: yellow;
+  opacity: 0.6;
+}
+
+.bright {
+  opacity: 1;
 }
